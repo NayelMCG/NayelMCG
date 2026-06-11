@@ -37,27 +37,6 @@ Estudiante apasionado por el desarrollo backend y las bases de datos, con experi
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🏢 Sistema de Gestión de Permisos para Vivit (2026)
-Sistema web completo para gestión de permisos y vacaciones de empleados, desarrollado como proyecto universitario real.
-- **Tecnologías:** React, Node.js, Express, MySQL
-- **Destacado:** Autenticación de usuarios, arquitectura full-stack, proyecto colaborativo en equipo
-
-### 🎲 Juego de Mesa Educativo (2024)
-Juego de la oca educativo basado en casillas y preguntas con base de datos integrada.
-- **Tecnologías:** C#, Microsoft SQL Server, Windows Forms
-
-### 🎵 CRUD Concierto (2024)
-Aplicación web que gestiona horarios e información de un festival musical.
-- **Tecnologías:** JavaScript, jQuery, HTML, CSS
-
-### 🗄️ Data Warehouse (2025)
-Base de datos dimensional para análisis de datos empresariales.
-- **Tecnologías:** Oracle DB, modelado dimensional
-
----
-
 ## 📜 Certificaciones
 
 - 🔐 CISCO Cyber Threat Management
@@ -67,9 +46,9 @@ Base de datos dimensional para análisis de datos empresariales.
 
 ## 📊 Estadísticas de GitHub
 
-![Nayel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Nayel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayelMCG&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayelMCG&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
